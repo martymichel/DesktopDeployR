@@ -1,0 +1,25 @@
+addCustomTime           Add a new vertical bar at a time point that can
+                        be dragged by the user
+addItem                 Add a single item to a timeline
+addItems                Add multiple items to a timeline
+centerItem              Move the window such that given item or items
+                        are centered
+centerTime              Move the window such that the given time is
+                        centered
+fitWindow               Adjust the visible window such that it fits all
+                        items
+removeCustomTime        Remove a custom time previously added
+removeItem              Remove an item from a timeline
+runExample              Run examples of using timevis in a Shiny app
+setCurrentTime          Adjust the time of the current time bar
+setCustomTime           Adjust the time of a custom time bar
+setGroups               Set the groups of a timeline
+setItems                Set the items of a timeline
+setOptions              Update the configuration options of a timeline
+setSelection            Select one or multiple items on a timeline
+setWindow               Set the current visible window
+timevis                 Create a timeline visualization
+timevis-shiny           Shiny bindings for timevis
+timevisData             Timevis sample data
+timevisDataGroups       Timevis sample group data
+zoom                    Zoom in/out the current visible window

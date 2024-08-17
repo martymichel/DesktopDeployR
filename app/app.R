@@ -1,2 +1,28 @@
-# app launching code, e.g.:
+library(shiny)
+library(shinyFiles)
+library(stringr)
+library(pdftools)
+library(ggplot2)
+library(ggpubr)
+library(DT)
+library(tidyr)
+library(dplyr)
+library(devtools)
+library(gridExtra)
+library(lubridate)
+library(shinydashboard)
+library(shinythemes)
+library(bslib)
+library(openxlsx)
+library(tesseract)
+library(tidyverse)
+library(shinyWidgets)
+library(shinyalert)
+library(timevis)
+
+# Halbe sekunde warten
+Sys.sleep(0.5)
+
+options(shiny.maxRequestSize=16*1024^2)
+
 shiny::runApp("./app/shiny/", launch.browser=TRUE)

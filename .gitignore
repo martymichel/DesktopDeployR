@@ -1,4 +1,4 @@
-VERSION
-R-Portable*/
-library/
-log/
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata

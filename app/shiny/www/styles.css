@@ -1,0 +1,122 @@
+body {
+ background-color: #f4f4f9;
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+
+h1, h2, h3, h4 {
+ color: black;
+}
+
+.well {
+ background-color: #ffffff;
+ border: 1px solid #888;
+ box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/*
+.box {
+ border: 1px solid #e3e3e3;
+ background-color: "transparent";
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+*/
+
+.dataTables_wrapper .dataTable thead th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: #ccc;
+  color: black;
+}
+
+.dataTables_wrapper .dataTable tbody tr {
+ font-size: 0.9em;
+ line-height: 1.2;
+ text-align: left;
+ color: #333;
+}
+
+.table-cell {
+ padding: 10px;
+ background-color: #fff;
+  border-bottom: 1px solid #ccc;
+ border-right: 1px solid #ccc;
+}
+
+.cell-border {
+ border: 1px solid #ddd;
+}
+
+.stripe tr:nth-child(odd) {
+ background-color: #f9f9f9;
+}
+
+.stripe tr:nth-child(even) {
+ background-color: #ddd;
+}
+
+.highlight {
+ background-color: #ffeb3b !important;
+}
+
+
+
+/* Allgemeine Anpassungen für timevis Fähnchen */
+.vis-item {
+  padding: 2px 2px; /* Reduziert den inneren Abstand */
+  height: 20px; /* Höhe der Fähnchen */
+  border-radius: 4px; /* Runde Ecken */
+  font-size: 8px; /* Kleinere Schriftgröße für den Text */
+  border-width: 2px; /* Dickere Rahmenbreite */
+}
+
+/* Vertikale Abstände, um Überlappungen zu vermeiden */
+.vis-item .vis-item-content {
+  display: inline-block;
+  max-width: 200px; /* Maximalbreite für die Fähnchen */
+  white-space: normal; /* Ermöglicht Zeilenumbrüche im Text */
+}
+
+/* Farben für die verschiedenen Gruppen der Knöpfe */
+/* Blau = btn-danger, Grau = btn-success und rot = btn-primary, mit starken Farb- und Grössenunterschieden bei Hover */
+.btn-danger {
+  background-color: #94bbff;
+  border-color: #94bbff;
+}
+
+.btn-danger:hover {
+  background-color: #5b96fc;
+  border-color: #5b96fc;
+  /* Grössenunterschied bei Hover */
+  transform: scale(1.1);
+  transition: transform 0.2s;
+}
+
+.btn-success {
+  background-color: #94bbff;
+  border-color: #94bbff;
+}
+
+.btn-success:hover {
+  background-color: #5b96fc;
+  border-color: #5b96fc;
+  /* Grössenunterschied bei Hover */
+  transform: scale(1.1);
+  transition: transform 0.2s;
+}
+
+.btn-primary {
+  background-color: #94bbff;
+  border-color: #94bbff;
+}
+
+.btn-primary:hover {
+  background-color: #5b96fc;
+  border-color: #5b96fc;
+  /* Grössenunterschied bei Hover */
+  transform: scale(1.1);
+  transition: transform 0.2s;
+}
+
+

@@ -1,0 +1,36 @@
+Danke, dass du dich fuer die Installation dieses COA Tools entschieden hast.
+Es wird dir die Arbeit hoffentlich stark erleichtern.
+
+Bitte lies die folgenden Informationen sorgfaeltig durch, bevor du fortfaehrst.
+
+Ersteller und Verantwortung:
+Ich, Michel Marty, habe diese Software im Auftrag von flex entwickelt.
+Obwohl ich grosse Sorgfalt auf die Entwicklung gelegt habe, erfolgt die Nutzung dieser Software auf eigenes Risiko.
+
+Haftungsausschluss:
+Ich uebernehme keine Haftung fuer direkte oder indirekte Schaeden, die durch die Nutzung dieser Software entstehen koennen.
+Das schliesst Schaeden an Hardware, Datenverlust oder wirtschaftliche Verluste mit ein.
+Es liegt in deiner Verantwortung, die Software auf ihre Eignung fuer deine Zwecke zu pruefen und alle noetigen Vorsichtsmassnahmen zu treffen.
+
+Pruefung der Ergebnisse:
+Ich empfehle dir, die Ergebnisse der Software mindestens einmalig gruendlich zu verifizieren und alle Ergebnisse zu ueberpruefen, bevor du sie produktiv einsetzt.
+Trotz sorgfaeltiger Entwicklung koennen unvorhergesehene Fehler oder Bugs auftreten.
+
+Fehler- und Bug-Meldungen:
+Wenn du Fehler, Bugs oder andere Probleme entdeckst, die die Funktionalitaet der Software beeintraechtigen, bitte ich dich, mich direkt zu informieren.
+Dein Feedback ist wichtig, um Verbesserungen vornehmen zu koennen.
+Du erreichst mich unter:
+
+Kontakt:
+Michel Marty
+E-Mail: michel.marty@flex.com
+
+Zusaetzliche Hinweise:
+Die Software wird auf Wunsch aktualisiert und verbessert.
+
+Schlussbestimmungen:
+Mit der Installation und Nutzung dieser Software erklaerst du dich mit den oben genannten Bedingungen einverstanden.
+Solltest du nicht einverstanden sein, brich die Installation bitte ab.
+
+Danke fuer dein Vertrauen und viel Erfolg bei der Nutzung der Software.
+Michel Marty

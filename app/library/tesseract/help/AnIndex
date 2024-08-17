@@ -1,0 +1,7 @@
+ocr	ocr
+ocr_data	ocr
+tessdata	tessdata
+tesseract	tesseract
+tesseract_download	tessdata
+tesseract_info	tesseract
+tesseract_params	tesseract
